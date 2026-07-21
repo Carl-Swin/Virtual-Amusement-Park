@@ -8,7 +8,7 @@
 
 ═══════════════════════════════════════════════
 
- __*Isometric View:       Numline 0*__
+ **Isometric View:       Numline 0**
                                                
 
  Rotate view around:   Left Mouse (Hold)       
@@ -19,7 +19,7 @@
 
 ───────────────────────────────────────────────
  
- __*First-Person View:    Numline 1*__
+ **First-Person View:    Numline 1**
 
                                                
  
@@ -33,7 +33,7 @@
 
 ───────────────────────────────────────────────
  
- __*Roller Coaster View:  Numline 2*__
+ **Roller Coaster View:  Numline 2**
 
                                                
  
@@ -41,7 +41,7 @@
 
 ───────────────────────────────────────────────
  
- __*Ferris Wheel View:    Numline 3*__
+ **Ferris Wheel View:    Numline 3**
 
                                                
  
