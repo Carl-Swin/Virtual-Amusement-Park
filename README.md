@@ -2,6 +2,8 @@
  
  Computer Graphics Final Project
 
+![Alt text](images/Showcase.png)
+
 ───────────────────────────────────────────────
 
  Controls
@@ -64,5 +66,3 @@
  Toggle Crowbar:               E               
 
 ═══════════════════════════════════════════════
-
-![Alt text](images/Showcase.png)
